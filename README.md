@@ -40,8 +40,9 @@ If you use code or comments from this work, please cite:
 
 ```BibTex
 @inproceedings{author2025consumption,
-  title={Diffused Responsibility: A Comprehensive Energy Consumption Analysis of Generative Audio Diffusion Models},
-  author={Autor},
+  title={Diffused Responsibility: A Comprehensive Energy Consumption Analysis of 
+  Generative Audio Diffusion Models},
+  author={Author},
   year={2025}
 }
 ```
