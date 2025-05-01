@@ -40,7 +40,7 @@ If you use code or comments from this work, please cite:
 
 ```BibTex
 @inproceedings{author2025consumption,
-  title={Performance and energy balance: a comprehensive study of state-of-the-art sound event detection systems},
+  title={Diffused Responsibility: A Comprehensive Energy Consumption Analysis of Generative Audio Diffusion Models},
   author={Autor},
   year={2025}
 }
