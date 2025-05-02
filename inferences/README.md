@@ -1,26 +1,18 @@
-<div align="center">
+<div align="left">
 
-# Diffused Responsibility: A Comprehensive Energy Consumption Analysis of Generative Audio Diffusion Models
+# Inference scripts
 
 </div>
 
-- [Abstract](#abstract)
-- [Install & Usage](#install--usage)
-    
-## Abstract
-
-Text-to-audio models have recently emerged as a powerful technology for generating sound from textual descriptions. However, their high computational demands raise concerns about energy consumption and environmental impact. In this paper, we conduct a comprehensive analysis of the energy usage of 7 state-of-the-art text-to-audio diffusion-based generative models, evaluating to what extent variations in generation parameters affect energy consumption at inference time. We also aim to identify an optimal balance between audio quality and energy consumption by considering Pareto-optimal solutions across all selected models. Our findings provide insights into the trade-offs between performance and environmental impact, contributing to the development of more efficient generative audio models.
-
+This folder contains all the scripts used to collect energy consumption data of the 7 models for each of the three performed experiments. For the quality metrics experiment, the scripts necessary to compute the CLAP scores and FAD have also been included.
 
 ## Install & Usage
 
-In order to run the jupyter notebooks, you need to clone the repo, create a virtual environment and install the needed packages.
+The scripts related to AudioLDM, AudioLDM2, and Stable Audio Open can be run in the environment provided with this repository, as they are hosted on HuggingFace (https://huggingface.co/cvssp/audioldm-s-full-v2, https://huggingface.co/cvssp/audioldm2, https://huggingface.co/stabilityai/stable-audio-open-1.0). 
+Stable Audio Open requires a HuggingFace user token for access. Ensure you are logged in via huggingface-cli login or have your token configured as an environment variable (HF_TOKEN) before running the model. Acceptance of the terms on the model's HF page is necessary to perform inferences.
 
-You can create the virtual environment and install the needed packages using conda with the following command: 
+For the remaining models, cloning their respective GitHub repositories, along with the creation of custom environments, is required: 
 
-```
-conda create --name <env> --file requirements.txt
-```
-
-Once everything is installed, you can run the Jupyter Notebook following the instruction reported on it, and reproduce the results. 
-
+- **Make-an-Audio**: https://github.com/Text-to-Audio/Make-An-Audio
+- **Make-an-Audio-2**: https://github.com/bytedance/Make-An-Audio-2
+- **Tango/Tango2**: https://github.com/declare-lab/tango
