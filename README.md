@@ -24,7 +24,7 @@ In order to run the jupyter notebooks, you need to clone the repo, create a virt
 You can create the virtual environment and install the needed packages using conda with the following command: 
 
 ```
-conda create --name <env> --file requirements.txt
+conda env create -f requirements.yml
 ```
 
 Once everything is installed, you can run the Jupyter Notebook following the instruction reported on it, and reproduce the results. 

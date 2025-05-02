@@ -1,0 +1,18 @@
+name: diffusionenergy
+channels:
+  - defaults
+dependencies:
+  - python=3.12.7
+  - numpy=1.26.4
+  - pandas=2.2.3
+  - matplotlib=3.9.2
+  - scipy=1.13.0
+  - seaborn=0.13.2
+  - pip
+  - pip:
+    - pip==24.2
+    - torch==2.5.1
+    - codecarbon==2.7.2
+    - diffusers==0.31.0
+    - glasbey==0.2.1
+    - soundfile==0.12.1
