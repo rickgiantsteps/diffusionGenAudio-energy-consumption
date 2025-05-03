@@ -4,7 +4,10 @@
 
 </div>
 
-This folder contains all the scripts used to collect energy consumption data of the 7 models for each of the three performed experiments. For the quality metrics experiment, the scripts necessary to compute the CLAP scores and FAD have also been included.
+This folder contains all the scripts used to collect energy consumption data of the 7 models for each of the three performed experiments.<br>
+
+For the quality metrics experiment, the scripts necessary to compute the CLAP scores and FAD have also been included.<br>
+The `getCLAP.py` file, contained in the CLAP folder, uses the 300 randomly chosen captions for each baseline to obtain the prompt coherence of the generations (using the Stable Audio Metrics library: https://github.com/Stability-AI/stable-audio-metrics). The FAD folder contains all the scripts necessary to get the objective quality measurement for all configurations (using the FADTK library: https://github.com/microsoft/fadtk).
 
 ## Install & Usage
 
