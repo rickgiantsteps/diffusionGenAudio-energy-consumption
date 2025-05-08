@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diffused Responsibility: A Comprehensive Energy Consumption Analysis of Generative Audio Diffusion Models
+# Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models
  
 [Author]()<sup>1</sup>
 
@@ -35,14 +35,13 @@ The scripts contained in the 'inferences' folder can be run by creating environm
 ## Additional information
 
 For more details:
-"[Diffused Responsibility: A Comprehensive Energy Consumption Analysis of Generative Audio Diffusion Models]()", Author
+"[Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models]()", Author
 
 If you use code or comments from this work, please cite:
 
 ```BibTex
 @inproceedings{author2025consumption,
-  title={Diffused Responsibility: A Comprehensive Energy Consumption Analysis of 
-  Generative Audio Diffusion Models},
+  title={Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models},
   author={Author},
   year={2025}
 }
