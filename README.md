@@ -27,6 +27,7 @@ conda env create -f requirements.yml
 ```
 
 Once everything is installed, you can run the Jupyter Notebook following the instruction reported on it and reproduce the results. <br>
+
 The scripts contained in the 'inferences' folder can be run by creating environments specific to the desired model; further information is provided in the folder's README.
 The 'sanitycheck' folder contains a brief confirmation of the statistical significance of the quality metrics experiment.
 
