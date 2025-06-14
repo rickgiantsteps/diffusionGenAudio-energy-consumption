@@ -1,0 +1,13 @@
+model,steps,baseline,clap_score
+AudioLDM2sanity,10,audiocaps,0.3414801359176636
+AudioLDM2sanity,25,audiocaps,0.37780606746673584
+AudioLDM2sanity,50,audiocaps,0.38439178466796875
+AudioLDM2sanity,100,audiocaps,0.38577625155448914
+AudioLDM2sanity,150,audiocaps,0.37920039892196655
+AudioLDM2sanity,200,audiocaps,0.38883256912231445
+AudioLDM2sanity,10,clotho,0.2507774531841278
+AudioLDM2sanity,25,clotho,0.2613150477409363
+AudioLDM2sanity,50,clotho,0.26444563269615173
+AudioLDM2sanity,100,clotho,0.2672683298587799
+AudioLDM2sanity,150,clotho,0.2536017894744873
+AudioLDM2sanity,200,clotho,0.26672473549842834

@@ -1,0 +1,13 @@
+model,steps,baseline,fad_score
+AudioLDM2sanity,10,clotho,0.7755745576217705
+AudioLDM2sanity,25,clotho,0.7267182573871525
+AudioLDM2sanity,50,clotho,0.7237023182908033
+AudioLDM2sanity,100,clotho,0.7276437646136057
+AudioLDM2sanity,150,clotho,0.7429217104154594
+AudioLDM2sanity,200,clotho,0.7350209347066314
+AudioLDM2sanity,10,audiocaps,0.16328031761340916
+AudioLDM2sanity,25,audiocaps,0.11509574048373608
+AudioLDM2sanity,50,audiocaps,0.11040763564751596
+AudioLDM2sanity,100,audiocaps,0.11282146043059056
+AudioLDM2sanity,150,audiocaps,0.11220216567589181
+AudioLDM2sanity,200,audiocaps,0.11297038895706837
