@@ -2,9 +2,10 @@
 
 # Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models
  
-[Author]()<sup>1</sup>
+[Riccardo Passoni]()<sup>1</sup>, [Francesca Ronchini]()<sup>1</sup>, [Luca Comanducci]()<sup>1</sup>, [Romain Serizel]()<sup>2</sup>, [Fabio Antonacci]()<sup>1</sup>
 
-<sup>1</sup> Affiliation <br>
+<sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano, Milan, Italy <br>
+<sup>2</sup> Université de Lorraine, CNRS, Inria, Loria, Nancy, France <br>
 
 </div>
 
@@ -35,15 +36,19 @@ The 'sanitycheck' folder contains a brief confirmation of the statistical signif
 ## Additional information
 
 For more details:
-"[Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models]()", Author
+"[Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models]()" (Riccardo Passoni, Francesca Ronchini, Luca Comanducci, Romain Serizel, Fabio Antonacci)
 
 If you use code or comments from this work, please cite:
 
 ```BibTex
-@inproceedings{author2025consumption,
-  title={Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models},
-  author={Author},
-  year={2025}
+@misc{passoni2025diffusedresponsibility,
+      title={Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models}, 
+      author={Riccardo Passoni and Francesca Ronchini and Luca Comanducci and Romain Serizel and Fabio Antonacci},
+      year={2025},
+      eprint={2505.07615},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2505.07615}, 
 }
 ```
 
