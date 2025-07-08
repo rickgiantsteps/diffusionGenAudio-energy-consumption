@@ -2,7 +2,7 @@
 
 # Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models
  
-[Riccardo Passoni]()<sup>1</sup>, [Francesca Ronchini]()<sup>1</sup>, [Luca Comanducci]()<sup>1</sup>, [Romain Serizel]()<sup>2</sup>, [Fabio Antonacci]()<sup>1</sup>
+[Riccardo Passoni](https://www.linkedin.com/in/riccardo-passoni/?locale=en_US)<sup>1</sup>, [Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/)<sup>1</sup>, [Luca Comanducci](https://lucacoma.github.io/)<sup>1</sup>, [Romain Serizel](https://members.loria.fr/RSerizel/)<sup>2</sup>, [Fabio Antonacci](https://www.deib.polimi.it/ita/personale/dettagli/573870)<sup>1</sup>
 
 <sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano, Milan, Italy <br>
 <sup>2</sup> Université de Lorraine, CNRS, Inria, Loria, Nancy, France <br>
